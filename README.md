@@ -13,6 +13,8 @@ I am interestd in genomics 🧬 and molecular biology 🔬. I recently worked in
  <img src="https://boletines.guanajuato.gob.mx/wp-content/uploads/2021/08/gto.jpg" width="383" height="216.46108.23" />
 </p>
 
+<p align="center"> Guanajuato´s City </p>
+
 
 
 <!--
